@@ -1,4 +1,3 @@
-### Note - I am not able to maintain this repository because of shortage of time, so if anyone who is interested in helping maintain this repository can contact me and I can add you as a maintainer, Thanks. 
 
 # Traffic Rule Violation Detection System
 
@@ -48,6 +47,4 @@ If you find any problem you can contact me or raise an issue.
 * [Tensorflow](https://www.tensorflow.org/) - ML library
 * [OpenALPR](https://www.openalpr.com/) - For detecting license plate and extracting license plate number
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ShreyAmbesh/Traffic-Rule-Violation-Detection-System/blob/master/LICENSE) file for details
